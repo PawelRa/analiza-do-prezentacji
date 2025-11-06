@@ -1,0 +1,19 @@
+Temat: Podsumowanie analizy danych Iris — kluczowe wnioski
+
+Treść maila
+
+Dzień dobry
+
+W załączeniu przesyłam krótkie podsumowanie analizy zbioru danych Iris (150 próbek: Iris setosa, Iris versicolor, Iris virginica). Raport zawiera eksploracyjną analizę zmiennych, sprawdzenie braków danych oraz wnioski dotyczące różnic między gatunkami. 
+
+Najważniejsze wnioski:
+Dane są kompletne — brak brakujących wartości, więc nie było potrzeby uzupełniania danych.
+Iris setosa: najmniejsze płatki i kielichy, średnia długość łodyg ≈ 5 cm, średnia szerokość kielicha ≈ 3.4 cm. 
+Iris versicolor: cechuje się średnimi wartościami (np. średnia długość łodyg ≈ 5.9 cm), najwęższe kielichy (średnia szer. ≈ 2.8 cm). 
+Iris virginica: największe rozmiary — najdłuższe łodygi (średnio ≈ 6.5 cm), najdłuższe płatki (średnio ≈ 5.5 cm) oraz najszersze płatki (średnia szer. ≈ 2.0 cm). 
+Istotne korelacje: szerokość płatka jest silnie skorelowana z jego długością; długość kielicha jest skorelowana z długością i szerokością płatka (dłuższy kielich → dłuższy i szerszy płatek).
+
+W załączeniu plik pdf z raportem
+
+z poważaniem
+Paweł 
